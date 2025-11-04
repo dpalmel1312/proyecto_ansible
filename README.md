@@ -11,7 +11,7 @@
 | Nombre | Rol / Especialidad | GitHub |
 | :--- | :--- | :--- |
 | **Juan Fco. Entrena Garrido** | xxxxx | [@juanentrena18] |
-| **[Nombre Colaborador 1]** | xxxxx | [@usuario-colab-1] |
+| **[Daniel Palacios Melguizo]** | xxxxx | [@dpalmel1312] |
 | **[Nombre Colaborador 2]** |xxxxx | [@usuario-colab-2] |
 | **[Nombre Colaborador 3]** | xxxxx | [@usuario-colab-3] |
 

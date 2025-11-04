@@ -10,10 +10,10 @@
 
 | Nombre | Rol / Especialidad | GitHub |
 | :--- | :--- | :--- |
-| **[Tu Nombre]** | Líder de Proyecto / Backend | [@tu-usuario] |
-| **[Nombre Colaborador 1]** | Desarrollador Frontend | [@usuario-colab-1] |
-| **[Nombre Colaborador 2]** | Desarrollador Backend / DB | [@usuario-colab-2] |
-| **[Nombre Colaborador 3]** | UI/UX Designer | [@usuario-colab-3] |
+| **Juan Fco. Entrena Garrido** | xxxxx | [@juanentrena18] |
+| **[Nombre Colaborador 1]** | xxxxx | [@usuario-colab-1] |
+| **[Nombre Colaborador 2]** |xxxxx | [@usuario-colab-2] |
+| **[Nombre Colaborador 3]** | xxxxx | [@usuario-colab-3] |
 
 ## 📖 Tabla de Contenidos
 

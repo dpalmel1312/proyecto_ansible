@@ -72,7 +72,7 @@ Instrucciones claras para que cualquier miembro del equipo pueda poner en marcha
 1.  Clona este repositorio:
     ```bash
     git clone [https://github.com/JuanEntrena18/proyecto_ansible.git](https://github.com/JuanEntrena18/proyecto_ansible.git)
-    cd tu-repositorio
+    cd proyecto_ansible
     ```
 
 2.  Instala las dependencias (ejemplo para un proyecto Node.js):

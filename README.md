@@ -71,7 +71,7 @@ Instrucciones claras para que cualquier miembro del equipo pueda poner en marcha
 
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+    git clone [https://github.com/JuanEntrena18/proyecto_ansible.git](https://github.com/JuanEntrena18/proyecto_ansible.git)
     cd tu-repositorio
     ```
 
